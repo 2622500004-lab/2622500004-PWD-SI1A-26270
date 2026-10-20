@@ -160,9 +160,3 @@ footer {
 footer p {
     margin: 0;
 }
-
-@media (min-width: 800px) {
-    main {
-        grid-template-columns: 1fr 1fr;
-    }
-}
